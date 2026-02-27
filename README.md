@@ -44,3 +44,11 @@ Nome da Playlist/ 01 - Música 1.mp3 02 - Música 2.mp3
     • Incorpora thumbnail como capa
     • Adiciona metadados
     • Ignora erros e continua downloads de playlist
+
+    ---
+
+## 🎼 Dica
+
+Para organizar melhor sua biblioteca e ajustar metadados manualmente, recomendo usar o MusicBrainz Picard.
+
+Ele permite corrigir artista, álbum, capa, ano e padronizar tags de forma bem prática após o download.
